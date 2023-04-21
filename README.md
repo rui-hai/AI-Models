@@ -1,6 +1,6 @@
-# AI-model
+# AI模型 (AI Models) 
 
-AI-Models 会收集整理开源的AI大模型。
+AI Models 会收集整理开源的AI大模型。
 
 
 ## 目录
